@@ -1,1 +1,2 @@
-# C36-CarRacingGame-Alumno
+# MovimientoDePelotaAsincorono
+Boilerplate para movimiento de la pelota de forma asíncrona
